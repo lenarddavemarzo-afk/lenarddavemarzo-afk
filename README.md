@@ -1,4 +1,4 @@
-<img id="top" align="center" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1E90FF,100:000080&fontColor=FFFFF0&fontSize=40&text=Hello%20World!&fontAlignY=40&fontAlign=80" width="100%"></img>
+<img id="top" align="center" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:FF0000,100:80000&fontColor=FFFFF0&fontSize=40&text=Hello%20World!&fontAlignY=40&fontAlign=80" width="100%"></img>
 <h1 align="center">Lenard Dave R. Marzo <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZrNWxsa2ZhZDRldnJucW5kYWg3NTM3NWR2bTNvb3N3eDRzMW44NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FQxpCWS4ZyvNFCTKHJ/giphy.gif" width="5%"></h1>
 <p align="center"><img src="https://readme-typing-svg.demolab.com?size=20&font=Fira+Code&duration=3000&pause=800&center=true&vCenter=true&width=800&lines=An+aspiring+Web+Developer;Aspiring+Cybersecurity+Specialist;Aspiring+AI+automator;Aspiring+Full-Stack+Developer"></img></p>
 <p align="center">Pampanga, Philippines</p>
