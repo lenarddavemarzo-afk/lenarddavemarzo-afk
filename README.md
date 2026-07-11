@@ -41,7 +41,7 @@
   <summary><b>Github Stats</b></summary>
 
   <!-- #### &emsp;GitHub statistics: -->
-  ![Dylan's GitHub stats](https://github-stats-extended.vercel.app/api?username=lanWifi01)
+  ![Dylan's GitHub stats](https://github-stats-extended.vercel.app/api?username=lenarddavemarzo-afk)
 
 </details>
 
@@ -51,7 +51,7 @@
   <summary><b>Top Lanuguages</b></summary>
 
   <!-- #### &emsp; Top languages: -->
-  ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=lanWifi01&langs_count=4)
+  ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?lenarddavemarzo-afk&langs_count=4)
 
 </details>
 
