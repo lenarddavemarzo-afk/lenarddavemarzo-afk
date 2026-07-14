@@ -1,75 +1,104 @@
-<img id="top" align="center" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:FF0000,100:550000&fontColor=FFFFF0&fontSize=40&text=Hello%20World!&fontAlignY=40&fontAlign=80" width="100%"></img>
-<h1 align="center">Lenard Dave R. Marzo <br><img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyNWY4NzcxYzZyeXpncHJweWE3dmU2aW9qbW9ua3o2YTB6OXRiemdzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aXSXKNTfxHKrWt9a0q/giphy.gif" width="7%"></h1>
-<p align="center"><img src="https://readme-typing-svg.demolab.com?size=20&font=Fira+Code&duration=3000&pause=800&center=true&vCenter=true&width=800&lines=An+aspiring+Web+Developer;Aspiring+Cybersecurity+Specialist;Aspiring+AI+automator;Aspiring+Full-Stack+Developer"></img></p>
-<p align="center">Pampanga, Philippines</p>
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3R1bnk1dW54YXBvOTl4eG44eXo3ZzdoYzl1b2g1YmNlZTgwengxbCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif" width="30%"></img>
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #1E90FF, #000080);">
+# <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=800000,DC143C,87CEEB,1E3A8A,0b0f19&height=220&section=header&text=Hello%20World!&fontSize=56&fontColor=ffffff" width="100%" /></p>
 
+<h1 align="center">Lenard Marzo!</h1>
+<p align="center">🌐 Pampanga, Philippines</p>
 
-<h3 align="">About Me</h3>
-
-* Hello! I am an adaptable software developer who thrives at the intersection of logical problem-solving and creative storytelling. 
-
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #1E90FF, #000080);">
-
-### What I'm Up To:
-* **Core Strengths:** Building robust applications with Java and structuring responsive, visual web experiences using HTML & CSS.
-* **Active Growth Areas:** Deep-diving into modern full-stack frameworks like Laravel and Bootstrap, while connecting systems via MySQL.
-* **Automation & Data:** Leveraging Python for scripting, prototyping, and streamlining repetitive tasks.
-* **Outside of Code:** You can find me playing musical instruments, writing, or catching up on my favorite anime.
-
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #1E90FF, #000080);">
-
-<div align="center">
-
-### Other Details About Me:
-
-<details open>
-  <summary><b>Some of my works</b></summary>
-
-  #### &emsp; Cookeys (Group Work):
-  <div>
-  <a href="https://cookeys-test-2.vercel.app/Project_Home.html" target="_blank" title="Click to open cookeys"><img src="pic.png" alt="Cookeys Web Mockup" width="50%"></a>
-  <p><a href="https://cookeys-test-2.vercel.app/Project_Home.html">Visit the website here</a></p>
-  </div>
-
-</details>
-
----
-
-<details open>
-  <summary><b>Github Stats</b></summary>
-
-  <!-- #### &emsp;GitHub statistics: -->
-  ![Dylan's GitHub stats](https://github-stats-extended.vercel.app/api?username=lenarddavemarzo-afk)
-
-</details>
-
----
-
-<details open>
-  <summary><b>Top Lanuguages</b></summary>
-
-  <!-- #### &emsp; Top languages: -->
-  ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?lenarddavemarzo-afk&langs_count=4)
-
-</details>
-
-<!-- ### Development time:
-  [![Dylan's WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=lanWifi01&range=last_7_days)](https://wakatime.com/@lanWifi01) -->
-
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #1E90FF, #000080);">
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/leanderdylannnnbronola01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="leanderdylannnnbronola01" height="30" width="40" /></a>
-<a href="https://instagram.com/lan_wifi01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lan_wifi01" height="30" width="40" /></a>
+<p align="center">
+  <!-- SOCIAL LOGOS: Replace YOUR_PROFILE_URL with your actual links -->
+  <a href="https://www.facebook.com/Marzoteynard.5gmailcom/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1E3A8A?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/lteyy_mrzx/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-DC143C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:lenarddavemarzo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-800000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #1E90FF, #000080);">
+<p align="center">
+  <strong>Software Developer & AI Automation Specialist</strong><br />
+  Building at the intersection of logical problem-solving, cyber defense, and intelligent automation systems.
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?lenarddavemarzo-afk/lenarddavemarzo-afk&color=800000&style=flat-square" alt="Views" />
+</p>
 
-<p align="center"><a href="#top">Back to Top</a>
+---
+
+### 📖 About Me
+Hello! I am an adaptable software developer who thrives at the intersection of logical problem-solving and creative storytelling. I automate company procedures to optimize workflows while building fast, secure, and modern digital applications.
+
+<p align="left">
+  <!-- Profile Photo Placed Below Description -->
+  <img src="YOUR_UPLOADED_IMAGE_URL" width="160" height="160" style="border-radius: 15px; border: 4px solid #800000; background-color: #0b0f19;" alt="Lenard Dave R. Marzo" />
+</p>
+
+- 🤖 **AI Automation Level:** 🟥🟥🟥🟥🟥🟥🟥🟦🟦🟦 **7 / 10**
+- 🚀 **Core Target:** Full Stack Development | Cybersecurity | AI-Integrated Web Applications
+- 💡 **Growth Mindset:** Permanently open and eager to learn any new framework, library, or tool to satisfy my technical curiosity and creative passion.
+
+---
+
+### 🛠️ Technical Ecosystem & Tools
+*My skill set spans workflow automation engines, core backend environments, and frontend presentation layers.*
+
+#### 🤖 Workflow & AI Automation
+<p align="left">
+  <img src="https://img.shields.io/badge/n8n-800000?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Zapier-DC143C?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" />
+  <img src="https://img.shields.io/badge/Make-1E3A8A?style=for-the-badge&logo=make&logoColor=white" alt="Make" />
+  <img src="https://img.shields.io/badge/GoHighLevel-87CEEB?style=for-the-badge&logo=gohighlevel&logoColor=black" alt="GoHighLevel" />
+</p>
+
+#### 💻 Software & Web Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-800000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-DC143C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-87CEEB?style=for-the-badge&logo=html5&logoColor=black" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1E3A8A?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-800000?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
+
+---
+
+### 📊 Progress & Target Roadmap
+A real-time overview of my technical milestones and direct implementation targets:
+
+| Domain Architecture | Capability Level Tracker | Primary Roadmap Objective |
+| :--- | :--- | :--- |
+| **AI Automation Loops** | 🟥🟥🟥🟥🟥🟥🟥🟦🟦🟦 **70%** | Multi-platform recursive agent structures |
+| **Frontend Web Build** | 🟥🟥🟥🟥🟥🟥🟥🟥🟦🟦 **80%** | Framework integrations & interactive UI/UX |
+| **Backend & Core Engine** | 🟥🟥🟥🟥🟥🟥🟦🟦🟦🟦 **60%** | Optimized relational databases & API builds |
+| **Cybersecurity Audits** | 🟥🟥🟥🟥🟦🟦🟦🟦🟦🟦 **40%** | Penetration testing frameworks & code hardening |
+
+---
+
+### 🌟 Featured Live Deployment
+An interactive web application demonstrating clean layout structures, script testing, and modern styling configurations.
+
+<table>
+  <tr>
+    <td>
+      <h3>🍪 Cookeys Project</h3>
+      <p>A custom functional web interface engineered for structural UI validation and performance testing.</p>
+      <a href="https://lanwifi001.github.io/cookeys-test/Project_Home.html" target="_blank">
+        <img src="https://img.shields.io/badge/Live_Deployment-View_Project-1E3A8A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📈 GitHub Profile Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&count_private=true&title_color=87CEEB&icon_color=DC143C&text_color=ffffff&bg_color=0b0f19" alt="GitHub Stats" />
+</p>
+
+<p align="right">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=800000,DC143C,87CEEB,1E3A8A,0b0f19&height=30&section=footer" width="40%" />
+</p>
